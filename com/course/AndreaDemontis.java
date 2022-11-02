@@ -7,4 +7,7 @@ public class AndreaDemontis {
     public static void Arrivederci(){
         System.out.println("Arrivederci da Andrea");
     }
+    public static void Addio(){
+        System.out.println("Addio da Andrea");
+    }
 }
