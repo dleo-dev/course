@@ -13,4 +13,8 @@ public class Emilia {
     public static void featureE() {
         System.out.println("Sono la feature E!");
     }
+
+    public static void featureF() {
+        System.out.println("Sono la feature F!");
+    }
 }
