@@ -7,5 +7,6 @@ public class Emilia {
 
     public static void sayGoodbye() {
         System.out.println("Arrivederci da Emilia!");
+        System.out.println("Fine programma");
     }
 }
