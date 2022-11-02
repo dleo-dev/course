@@ -13,4 +13,7 @@ public class AndreaDemontis {
     public static void featureC(){
         System.out.println("C");
     }
+    public static void featureg(){
+        System.out.println("G");
+    }
 }
