@@ -10,4 +10,7 @@ public class AndreaDemontis {
     public static void Addio(){
         System.out.println("Addio da Andrea");
     }
+    public static void HotfixA(){
+        System.out.println("HotfixA");
+    }
 }
