@@ -9,4 +9,8 @@ public class Emilia {
         System.out.println("Arrivederci da Emilia!");
         System.out.println("Fine programma");
     }
+
+    public static void featureE() {
+        System.out.println("Sono la feature E!");
+    }
 }
