@@ -6,5 +6,6 @@ public class Main {
         Matteo.sayHello();
         Stefano.sayHello();
         AndreaDemontis.Arrivederci();
+        Emilia.sayHello();
     }
 }
