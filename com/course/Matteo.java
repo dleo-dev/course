@@ -8,4 +8,8 @@ public class Matteo {
     public static void sayGoodbye() {
         System.out.println("Arrivederci da Matteo");
     }
+
+    public static void yetAnotherMethod() {
+        System.out.println("Hello new method");
+    }
 }
