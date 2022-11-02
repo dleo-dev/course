@@ -10,4 +10,7 @@ public class Stefano {
     public static void sayGoodbye2(){
         System.out.println("Ciao ciao da Stefano!");
     }
+    public static void featureA(){
+        System.out.println("Sono la feature A");
+    }
 }
