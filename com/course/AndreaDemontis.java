@@ -16,4 +16,7 @@ public class AndreaDemontis {
     public static void HotfixA(){
         System.out.println("HotfixA");
     }
+    public static void featureg(){
+        System.out.println("G");
+    }
 }

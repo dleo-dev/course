@@ -13,4 +13,7 @@ public class Stefano {
     public static void featureA(){
         System.out.println("Sono la feature A");
     }
+    public static void featureB(){
+        System.out.println("Sono la feature B");
+    }
 }
